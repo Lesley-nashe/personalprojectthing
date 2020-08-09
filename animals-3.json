@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Brian",
+    "age" : 15,
+    "email": "B.wogqoyi@gmail.com",
+    "city": "Joburg"
+  },
+  {
+    "name": "Tadiwa",
+    "age": 21,
+    "email": "lesliemusekiwa@gmail.com",
+    "city": "london"
+
+  },
+  {
+    "name": "Frank",
+    "age": 52,
+    "email": "frnkhakm@gmail.com",
+    "city": "Nairobi"
+
+  }
+]
